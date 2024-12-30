@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c28523c-5e60-47ab-be54-75b11282305d)
+![image](https://github.com/user-attachments/assets/6e415882-2d72-4bc7-a610-79b5403a7105)
 
 The Sudoku Solver project uses Python and data structures like 2D arrays, stacks,
 lists, dictionaries, and tuples, providing the user with the ultimate Sudoku
@@ -11,15 +11,5 @@ solving guides to enhance the learning experience, which breeds logical thinking
 and solving skills. Lastly, this project not only manifests technical prowess but
 also serves for an exciting and challenging game of Sudoku.
 
-Here are the rules to play Sudoku: 
 
-Every square has to contain a single number.
 
-Only the numbers from 1 through to 9 can be used.
-
-Each 3x3 box can only contain each number from 1 to 9 once.
-
-Each vertical column can only contain each number from 1 to 9 once.
-
-Each horizontal row can only contain each number from 1 to 9 once.
-![image](https://github.com/user-attachments/assets/4c2932a8-a7c7-46a1-b95b-4e8053d10c3f)
