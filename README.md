@@ -13,30 +13,22 @@ Sudoku is a 9-by-9 grid puzzle in which the grid is divided into 3-by-3 boxes.Th
 
 Many Sudoku games available today offer a limited playing experience. This project aims to develop a comprehensive Sudoku application that addresses these limitations by providing
 
--Sudoku Variations
--Puzzle Customization 
--Puzzle Validation
--Keyboard Shortcuts
--Step-by-Step Solving Guide
--Quizzes
+**Sudoku Variations,
+Puzzle Customization, 
+Puzzle Validation,
+Keyboard Shortcuts,
+Step-by-Step Solving Guide,
+Quizzes.**
 
 ![image](https://github.com/user-attachments/assets/667aec7e-e0d3-487c-ace9-3da80bf79732)
 
 
 
 **Game Play Mechanisms:**
-> Hints for next moves
-> Undo/redo moves
-> Save and load game
-> Input validation
-> Different difficulty levels
+ Hints for next moves,Undo/redo moves, Save and load game,Input validation,Different difficulty levels.
 
 **DSA used:**
-> Stacks
-> Recursive Backtracking
-> 2D Arrays
-> Dictionary
-> Lists and Tuples
+Stacks, Recursive Backtracking,2D Arrays,Dictionary, Lists and Tuples.
 
 
 
